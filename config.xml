@@ -3,7 +3,7 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "ru.car.vrsco.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
     <name>ТЕСТ. В путь дорогу</name>
 
@@ -41,10 +41,10 @@
         <icon src="res/android/icon/b3ecff70ae924d819cb80145ab93e580.png" density="xxhdpi" />
         <icon src="res/android/icon/9ff74e7e5798dfd398edef60570e15f1.png" density="xxxhdpi" />
 
-        <splash src="res/android/screen/bc6f2ccb11df550e8b5fb9b75ffadc84.png" density="port-hdpi"/>
-        <splash src="res/android/screen/a742ac8759c538d8c7a23bbbcaad81fc.png" density="port-ldpi"/>
-        <splash src="res/android/screen/3c9f60c4bfb4a09b88f8ba1f0f90607b.png" density="port-mdpi"/>
-        <splash src="res/android/screen/0a895cc27dfbfc4136000976453807fe.png" density="port-xhdpi"/>
+        <splash src="res/android/screen/0848654a6064234124cf6ab619d8cc34.png" density="port-hdpi"/>
+        <splash src="res/android/screen/2c3ba7aa2fbff06728d8170e95989951.png" density="port-ldpi"/>
+        <splash src="res/android/screen/35aefdf6d455d067c621c657f0d500c4.png" density="port-mdpi"/>
+        <splash src="res/android/screen/4a34f444b26915d7fde32e9e2efb6e9a.png" density="port-xhdpi"/>
     </platform>
 
     <platform name="ios">
